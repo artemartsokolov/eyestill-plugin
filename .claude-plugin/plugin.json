@@ -1,0 +1,25 @@
+{
+  "name": "eyestill",
+  "displayName": "EyeStill",
+  "version": "1.0.0",
+  "description": "Speed-read in the chat: web pages, public-domain books and Claude's own answers, one word at a time at a single point of focus. /eyestill opens anything in the reader; while you read, Claude knows where you are and can explain, recap or quiz you.",
+  "author": {
+    "name": "EyeStill",
+    "url": "https://eyestill.com"
+  },
+  "homepage": "https://eyestill.com/apps",
+  "license": "MIT",
+  "keywords": [
+    "reading",
+    "speed reading",
+    "rsvp",
+    "books",
+    "focus"
+  ],
+  "icon": "./logo.png",
+  "documentationUrl": "https://eyestill.com/apps",
+  "supportUrl": "https://eyestill.com/support",
+  "privacyPolicyUrl": "https://eyestill.com/privacy",
+  "termsOfServiceUrl": "https://eyestill.com/terms",
+  "repository": "https://github.com/artemartsokolov/eyestill-plugin"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "eyestill",
+  "description": "EyeStill: speed-read web pages, books and Claude's answers in the chat.",
+  "owner": {
+    "name": "EyeStill",
+    "url": "https://eyestill.com"
+  },
+  "plugins": [
+    {
+      "name": "eyestill",
+      "source": "./",
+      "description": "Speed-read in the chat: web pages, public-domain books and Claude's own answers, one word at a time at a single point of focus. /eyestill opens anything in the reader; while you read, Claude knows where you are and can explain, recap or quiz you."
+    }
+  ]
+}

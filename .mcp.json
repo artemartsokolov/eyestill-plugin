@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "eyestill": {
+      "type": "http",
+      "url": "https://eyestill.com/mcp"
+    }
+  }
+}
