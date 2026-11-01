@@ -1,8 +1,8 @@
 # EyeStill for Claude
 
-Speed-read in the chat: web pages, public-domain books and Claude's own answers, one word at a time at a
-single point of focus, on a 3D drum. While you read, Claude knows where you are and can explain the passage,
-recap, quiz you or continue later from the same word.
+Read web pages, public-domain books and Claude's own answers faster: one word at a time in a fixed spot, right
+in the chat. You set the speed, and Claude knows where you are, so it can explain the passage, recap, quiz you
+or continue later from the same word. (The words scroll past on a rotating cylinder, like a slot-machine reel.)
 
 - `/eyestill https://…` — read a web page
 - `/eyestill Moby Dick, chapter 30` — a public-domain book from Project Gutenberg, from a chapter
